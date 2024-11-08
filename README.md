@@ -31,12 +31,12 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **negipriyanka949@gmail.com** 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
+- ❤️ Building a community to make an impact by training new generations on cutting edge 
+  technologies to meet future requirements.</br>
 
 
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
+### `My Research Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - Outlying Aspect Mining
 - Classification
@@ -56,34 +56,24 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
+ 📖**Bachelor's of technology-< Computer Science and Engineering >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Shri Guru Ram Rai Public School, Haridwar**------------------**< 2019-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **Shri Guru Ram Rai Public School, Haridwar**------------------**< 2017-2019 >**\
    📖**Secondary Schooling**
  
    
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+ -  👨‍💻 **Web-Development**---------------------------< Internship >\
+ 📆 Feb,2021 - moment\
+📍 **Intershala** 
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
+ 
 
    </details>
    
