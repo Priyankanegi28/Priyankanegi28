@@ -108,7 +108,23 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com)
 </p>
 
+## 🚀 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyankanegi28&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyankanegi28&theme=radical)
+
+---
+
+## 📊 Most Used Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankanegi28&layout=compact&theme=radical)
+
+---
 
 
 
