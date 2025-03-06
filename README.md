@@ -116,7 +116,8 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 ## 🔥 GitHub Streak  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyankanegi28)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyankanegi28&theme=radical) 
+
 ---
 
 ## 📊 Most Used Languages  
